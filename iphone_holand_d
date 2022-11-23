@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>ros.holand.work</string>
+            <string>dns.holand.cyou</string>
+					</array>
+					<key>ServerName</key>
+					<string>dns.holand.cyou</string>
+				</dict>
+				<key>PayloadDescription</key>
+				<string>测试，给ios设备</string>
+				<key>PayloadDisplayName</key>
+				<string>荷兰 DNS over TLS</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.vpn.managed.C06CADF7-7AAF-4426-933A-25E1792277CF</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>C06CADF7-7AAF-4426-933A-25E1792277CF</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ProhibitDisablement</key>
+				<false/>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>荷兰 DNS over TLS</string>
+		<key>PayloadDisplayName</key>
+		<string>DNS</string>
+		<key>PayloadIdentifier</key>
+		<string>荷兰 DNS over TLS</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>8F5E7F85-316A-4A7E-8500-E9C7951E0DC4</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
