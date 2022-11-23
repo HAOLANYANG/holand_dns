@@ -2,8 +2,8 @@
 holand.work
 
 # NAME: Apple
-full:api.smoot.apple.cn
-full:apple-events.akamaized.net
+api.smoot.apple.cn
+apple-events.akamaized.net
 akadns.net
 apple-mapkit.com
 apple.co
