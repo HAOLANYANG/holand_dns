@@ -10,6 +10,7 @@ wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/reject-list.txt -O /etc/mosdns/reject-list.txt
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/apple-cn.txt -O /etc/mosdns/apple-cn.txt
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/gfw.txt -O /etc/mosdns/gfw.txt
+wget --no-check-certificate https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/cdn_domain_list.txt -O /etc/mosdns/cdn_domain_list.txt
 systemctl restart mosdns
 
 
