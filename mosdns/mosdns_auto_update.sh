@@ -1,4 +1,5 @@
 #!/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin 
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat -O /etc/mosdns/geoip.dat
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat -O /etc/mosdns/geosite.dat
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/cn.dat -O /etc/mosdns/cn.dat
