@@ -1,6 +1,21 @@
 #holand private
 holand.work
 
+
+
+# NAME: 抖音
+amemv.com
+douyincdn.com
+douyinpic.com
+douyinstatic.com
+douyinvod.com
+idouyinvod.com
+ixigua.com
+ixiguavideo.com
+pstatp.com
+snssdk.com
+toutiao.com
+
 # NAME: Apple
 api.smoot.apple.cn
 apple-events.akamaized.net
