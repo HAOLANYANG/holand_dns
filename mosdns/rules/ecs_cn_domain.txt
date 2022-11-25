@@ -46,6 +46,19 @@ tencent-cloud.net
 # NAME: 比价狗
 bijiago.com
 
+
+# NAME: SMZDM什么值得买
+faxianpindao.com
+quaolai.com
+smzdm.com
+smzdmimg.com
+valueq-sea.com
+wanwuzhinan.com
+zdm.net
+zdmimg.com
+zhidemai.com
+
+
 # NAME: 苹果
 apple.com
 itunes-apple.com
