@@ -123,3 +123,4 @@ duanxb.com
 alikunlun.com
 forcedata.cn
 tencent-cloud.net
+tdnsv6.com
