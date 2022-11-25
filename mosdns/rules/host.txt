@@ -1,0 +1,8 @@
+hk02-cn2.holand.cyou
+hk02-dns.holand.cyou
+hk03-bgp.holand.cyou
+hk03-cmi-mo.holand.cyou
+hk03-dns.holand.cyou
+jp01.holand.cyou
+jp01-dns.holand.cyou
+jp-tokyo-softbank.holand.cyou
