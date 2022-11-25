@@ -1,8 +1,6 @@
 #holand private
 holand.work
 
-
-
 # NAME: 抖音
 amemv.com
 douyincdn.com
@@ -109,3 +107,19 @@ applepaycash.net
 applepaysupplies.net
 applepaysupplies.info
 apple-imac.com
+apple-dns.cn
+aaplimg.com
+
+#杂项
+qq.com
+bing.net
+360.cn
+163.com
+bytegoofy.com
+126.net
+127.net
+qlogo.cn
+duanxb.com
+alikunlun.com
+forcedata.cn
+tencent-cloud.net
