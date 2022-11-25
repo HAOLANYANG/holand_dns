@@ -40,6 +40,7 @@ keyword:43.156.222.
 101.32.133.53/32
 129.226.107.244/32
 129.226.3.47/32
+tencent-cloud.net
 
 
 # NAME: 比价狗
@@ -124,3 +125,8 @@ alikunlun.com
 forcedata.cn
 tencent-cloud.net
 tdnsv6.com
+alibabadns.com
+cravatar.cn
+alicdn.com
+lovestu.com
+qtlcdn.com
