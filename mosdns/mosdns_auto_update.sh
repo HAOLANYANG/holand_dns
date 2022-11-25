@@ -12,7 +12,6 @@ wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/gfw.txt -O /etc/mosdns/data/gfw.txt
 wget --no-check-certificate https://fastly.jsdelivr.net/gh/pmkol/easymosdns@rules/cdn_domain_list.txt -O /etc/mosdns/data/cdn_domain_list.txt
 wget --no-check-certificate https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/geoip-only-cn-private.dat -O /etc/mosdns/geoip-only-cn-private.dat
-
+wget --no-check-certificate https://cdn.jsdelivr.net/gh/HAOLANYANG/holand_dns/mosdns/rules/host.txt -O /etc/mosdns/data/host.txt
 systemctl restart mosdns
-
 
