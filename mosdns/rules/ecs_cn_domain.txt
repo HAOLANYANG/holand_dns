@@ -2519,6 +2519,7 @@ weibocdn.com
 keyword:weibo
 
 #微软
+cn.bing.com
 bing.com.cn
 biying.cn
 biying.com.cn
