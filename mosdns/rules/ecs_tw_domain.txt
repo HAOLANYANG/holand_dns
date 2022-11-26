@@ -30,6 +30,7 @@ thegithubshop.com
 
 
 #微软中国可直连
+cn.bing.com #疑似国内无服务器，优先使用日本机房
 aka.ms
 akadns.net
 akamaiedge.net
