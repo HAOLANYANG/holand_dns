@@ -18,9 +18,9 @@
 					<string>dns-pve.holand.work</string>
 				</dict>
 				<key>PayloadDescription</key>
-				<string>Configures device to use DNSPod Encrypted DNS over TLS</string>
+				<string>HOLAND DNS-PVE DNS over TLS</string>
 				<key>PayloadDisplayName</key>
-				<string>HOLAND_PVE DNS over TLS</string>
+				<string>HOLAND DNS-PVE DNS over TLS</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.vpn.managed.C06CADF7-7AAF-4426-933A-25E1792277CF</string>
 				<key>PayloadType</key>
@@ -34,9 +34,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>Adds the HOLAND_DNS to Big Sur and iOS 14 based systems</string>
+		<string>HOLAND DNS-PVE DNS over TLS</string>
 		<key>PayloadDisplayName</key>
-		<string>HOLAND_PVE DNS over TLS</string>
+		<string>HOLAND DNS-PVE DNS over TLS</string>
 		<key>PayloadIdentifier</key>
 		<string>fuangyians-MacBook-Air.ADA48F80asdfad-8D1C-4456-8BB8-E8859E2A2904</string>
 		<key>PayloadRemovalDisallowed</key>
@@ -48,4 +48,4 @@
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
-</plist
+</plist>
