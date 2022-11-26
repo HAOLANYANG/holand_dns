@@ -12,10 +12,10 @@
 					<key>ServerAddresses</key>
 					<array>
 						<string>ros.holand.work</string>
-						<string>dns.holand.cyou</string>
+						<string>dns-pve.holand.work</string>
 					</array>
 					<key>ServerName</key>
-					<string>dns.holand.cyou</string>
+					<string>dns-pve.holand.work</string>
 				</dict>
 				<key>PayloadDescription</key>
 				<string>Configures device to use DNSPod Encrypted DNS over TLS</string>
