@@ -1,6 +1,16 @@
 #holand private
 holand.work
 
+
+# NAME: Akamai 不看ecs只根据请求的ip地址分配cdn
+akamai.com
+akamai.net
+akamaiedge.net
+akamaihd.net
+akamaistream.net
+akamaized.net
+akadns.net
+
 # NAME: 抖音
 amemv.com
 douyincdn.com
