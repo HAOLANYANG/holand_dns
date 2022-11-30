@@ -1927,6 +1927,8 @@ yo9.com
 
 #杂项
 keyword:qq.com
+www.bing.com
+bing.com
 bing.net
 360.cn
 163.com
