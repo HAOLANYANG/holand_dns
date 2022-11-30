@@ -12,4 +12,5 @@ wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.co
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/HAOLANYANG/holand_dns/main/mosdns/rules/host.txt -O /etc/mosdns/data/host.txt
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/pmkol/easymosdns/main/rules/cdn_domain_list.txt -O /etc/mosdns/data/cdn_domain_list.txt
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/pmkol/easymosdns/main/rules/gfw_ip_list.txt -O /etc/mosdns/data/gfw_ip_list.txt
+wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/HAOLANYANG/holand_dns/main/mosdns/mosdns_auto_update.sh -O /root/mosdns_auto_update.sh
 systemctl restart mosdns
