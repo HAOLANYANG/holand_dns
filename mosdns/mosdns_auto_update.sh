@@ -14,6 +14,8 @@ wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.co
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/pmkol/easymosdns/main/rules/gfw_ip_list.txt -O /etc/mosdns/data/gfw_ip_list.txt
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/HAOLANYANG/holand_dns/main/mosdns/rules/chinamobile.txt -O /etc/mosdns/data/chinamobile.txt
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/HAOLANYANG/holand_dns/main/mosdns/rules/accelerated-domains.china.txt -O /etc/mosdns/data/accelerated-domains.china.txt
+wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/cdn-testlist.txt -O /etc/mosdns/data/cdn-testlist.txt
+
 
 wget --no-check-certificate https://ghproxy.com/https://raw.githubusercontent.com/HAOLANYANG/holand_dns/main/mosdns/mosdns_auto_update.sh -O /root/mosdns_auto_update.sh
 systemctl restart mosdns
