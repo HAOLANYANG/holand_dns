@@ -1,51 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
-		<key>PayloadContent</key>
-		<array>
-			<dict>
-				<key>DNSSettings</key>
-				<dict>
-					<key>DNSProtocol</key>
-					<string>TLS</string>
-					<key>ServerAddresses</key>
-					<array>
-						<string>ros.holand.work</string>
-						<string>dns-pve.holand.work</string>
-					</array>
-					<key>ServerName</key>
-					<string>dns-pve.holand.work</string>
-				</dict>
-				<key>PayloadDescription</key>
-				<string>HOLAND DNS-PVE DNS over TLS</string>
-				<key>PayloadDisplayName</key>
-				<string>HOLAND DNS-PVE DNS over TLS</string>
-				<key>PayloadIdentifier</key>
-				<string>com.apple.vpn.managed.C06CADF7-7AAF-4426-933A-25E1792277CF</string>
-				<key>PayloadType</key>
-				<string>com.apple.dnsSettings.managed</string>
-				<key>PayloadUUID</key>
-				<string>C06CADF7-7AAF-4426-933A-25E1792277CF</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>ProhibitDisablement</key>
-				<false/>
-			</dict>
-		</array>
-		<key>PayloadDescription</key>
-		<string>HOLAND DNS-PVE DNS over TLS</string>
-		<key>PayloadDisplayName</key>
-		<string>HOLAND DNS-PVE DNS over TLS</string>
-		<key>PayloadIdentifier</key>
-		<string>fuangyians-MacBook-Air.ADA48F80asdfad-8D1C-4456-8BB8-E8859E2A2904</string>
-		<key>PayloadRemovalDisallowed</key>
-		<false/>
-		<key>PayloadType</key>
-		<string>Configuration</string>
-		<key>PayloadUUID</key>
-		<string>8F5E7F85-316A-4A7E-8500-E9C7951E0DC4</string>
-		<key>PayloadVersion</key>
-		<integer>1</integer>
-	</dict>
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>TLS</string>
+<key>ServerName</key>
+<string>dns-pve.holand.cyou</string>
+</dict>
+<key>OnDemandRules</key>
+<array>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>WiFi</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>Cellular</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Disconnect</string>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Configures device to use holand Encrypted DNS over TLS</string>
+<key>PayloadDisplayName</key>
+<string>holand DNS over TLS</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.dnsSettings.managed.b04217e4-f072-4c46-9e40-a2a0b794cde7</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>df148bd2-ac8d-4f68-ba76-6eef64e2e997</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>ProhibitDisablement</key>
+<false/>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Adds different encrypted DNS configurations to Big Sur and iOS 14 based systems</string>
+<key>PayloadDisplayName</key>
+<string>Encrypted DNS (DoH, DoT)</string>
+<key>PayloadIdentifier</key>
+<string>com.notjakob.apple-dns.45de13ee-d908-4ae6-9989-b7a892975f27</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>6e5acf0c-324c-42b7-bc5b-27438b389441</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
 </plist>
