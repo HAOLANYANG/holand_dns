@@ -1,13 +1,13 @@
 #域名在前、IP在后，支持一行多个IP，支持IPv6
 dns.google 8.8.8.8 8.8.4.4 2001:4860:4860::8888
 localhost 127.0.0.1
-hk02-cn2.holand.cyou 117.18.7.90
-hk02-dns.holand.cyou 117.18.7.90
-hk03-bgp.holand.cyou 45.152.66.121
-hk03-cmi-mo.holand.cyou 163.53.246.150
-hk03-dns.holand.cyou 45.152.66.121
-jp01.holand.cyou 102.140.90.111
-jp01-dns.holand.cyou 102.140.90.111
-jp-tokyo-softbank.holand.cyou 193.32.148.123
-dns.holand.work 8.134.85.202
-dns-ali.holand.work 8.134.85.202
+#hk02-cn2.holand.cyou 117.18.7.90
+#hk02-dns.holand.cyou 117.18.7.90
+#hk03-bgp.holand.cyou 45.152.66.121
+#hk03-cmi-mo.holand.cyou 163.53.246.150
+#hk03-dns.holand.cyou 45.152.66.121
+#jp01.holand.cyou 102.140.90.111
+#jp01-dns.holand.cyou 102.140.90.111
+#jp-tokyo-softbank.holand.cyou 193.32.148.123
+#dns.holand.work 8.134.85.202
+#dns-ali.holand.work 8.134.85.202
